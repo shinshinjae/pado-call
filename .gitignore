@@ -1,0 +1,15 @@
+# dependencies and caches
+node_modules/
+web/node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.vite/
+*.log
+.DS_Store
+Thumbs.db
+# editor
+.vscode/
+.idea/
+*.tsbuildinfo
