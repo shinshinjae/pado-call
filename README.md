@@ -135,7 +135,8 @@ pado-call/
 
 ## 팀원
 
-| 이름 | 역할 |
+| 이름 | 이메일 |
 |---|---|
-| | |
-| | |
+|신재완|sjw6258@g.kmou.ac.kr|
+|정은화|1117jjjj@naver.com|
+|서승재|0001asd@naver.com|
